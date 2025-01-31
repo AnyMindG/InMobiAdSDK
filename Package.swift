@@ -12,6 +12,7 @@ let package = Package(
             targets: ["InMobiSDK"]
         ),
     ],
+    // InMobiAdSDK v1.1.0
     targets: [
         .binaryTarget(
             name: "InMobiSDK",
